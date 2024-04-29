@@ -1,1 +1,1 @@
-# MEC_Photography
+In our first-semester collaboration with Ellen Dalton and Matthew Menchinton, we created a practical web design for MEC Photography to showcase our early web development skills. The project involved building a five-page website, focusing on keeping the design consistent and original, while using HTML and CSS effectively. We made sure to incorporate the Box Model and added subtle touches, like the "bounce" effect.  
